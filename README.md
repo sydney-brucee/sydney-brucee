@@ -1,6 +1,6 @@
 # Sydney Bruce
 
-USC Quantitative Biology graduate with EMT experience. Interested in clinical research, research support, and quantitative roles that combine biological data with practical problem-solving.
+USC Quantitative Biology graduate with experience analyzing large datasets using Python and R. Seeking data analyst or junior data engineering roles focused on data processing and analysis.
 
 ## Background
 - B.S. Quantitative Biology, University of Southern California
