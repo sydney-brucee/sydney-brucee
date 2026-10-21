@@ -9,6 +9,7 @@ USC Quantitative Biology graduate with experience analyzing large datasets using
 
 ## Technical Skills
 **Languages:** Python, C/C++, R, SQL, Linux/Bash
+
 **Libraries & Tools:** pandas, NumPy, Matplotlib, Streamlit, GitHub
 
 ## Projects
