@@ -7,6 +7,10 @@ USC Quantitative Biology graduate with experience analyzing large datasets using
 - EMT experience (patient care, protocols, high-reliability environments)
 - Coursework and projects in statistical analysis, data modeling, and scientific computing (R, Python, C++)
 
+## Technical Skills
+**Languages:** Python, C/C++, R, SQL, Linux/Bash
+**Libraries & Tools:** pandas, NumPy, Matplotlib, Streamlit, GitHub
+
 ## Projects
 - [NASA FIRMS Wildfire Detection Viewer](https://github.com/sydney-brucee/nasa-firms-wildfire-viewer) — Interactive Streamlit app for exploring sample MODIS wildfire detections with filters, summary metrics, and a pydeck map. Includes modular data utilities and unit tests.
 - [Satellite Attitude Dynamics Simulation](https://github.com/sydney-brucee/Satellite_Flight_Software_Simulator) — Modular C++ simulation of satellite attitude control with a PD controller, sensor noise, telemetry, and gain tuning
